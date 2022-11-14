@@ -11072,11 +11072,6 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-green-soft-rgb), var(--bs-bg-opacity)) !important;
 }
 
-.bg-teal-soft {
-  --bs-bg-opacity: 1;
-  background-color: rgb(15, 104, 115), var(--bs-bg-opacity)) !important;
-}
-
 .bg-cyan-soft {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-cyan-soft-rgb), var(--bs-bg-opacity)) !important;
